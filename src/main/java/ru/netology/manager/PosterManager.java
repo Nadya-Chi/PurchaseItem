@@ -1,7 +1,6 @@
 package ru.netology.manager;
 
 import ru.netology.domain.Poster;
-import ru.netology.domain.PurchaseItem;
 
 public class PosterManager {
     private Poster[] films = new Poster[0];

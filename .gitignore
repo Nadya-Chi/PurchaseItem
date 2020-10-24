@@ -45,8 +45,3 @@ out/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**
 !**/src/test/**
-
-PurchaseItem.java
-CartManager.java
-CartRepository.java
-CartManagerTestNonEmpty.java
